@@ -1,7 +1,6 @@
 .banner {
-    background-image: url(img/palioto14.png)
-    background: var(--azul-degrade);
-    color: var(--branco);
+    background: var(--preto-degrade);
+    color: var(--rosa-);
     text-align: center;
     padding: 2.5em 2em;
 }
